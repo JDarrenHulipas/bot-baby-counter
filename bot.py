@@ -5,7 +5,7 @@ from database import init_db, registrar_evento, registrar_sueno_hora, obtener_re
 import datetime
 
 # Reemplaza con el Token que te dio BotFather
-TOKEN = "TU_TELEGRAM_BOT_TOKEN"
+TOKEN = "8977103597:AAHynXNMkUJi7dwRsXmhtBBvM1mvWuEHMB0"
 
 # Configuración de logs
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
